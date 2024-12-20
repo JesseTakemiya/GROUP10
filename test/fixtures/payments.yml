@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  method: MyString
+  amount: 9.99
+  date: 2024-12-20 09:30:51
+  bill: one
+
+two:
+  method: MyString
+  amount: 9.99
+  date: 2024-12-20 09:30:51
+  bill: two
